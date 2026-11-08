@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-  <sub>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</sub><br>
-  <img src="https://komarev.com/ghpvc/?username=Michitaa&color=d6d6d6&style=flat-square&label=visitas+%E2%99%A1" /><br>
+  <img src="assets/encaje.svg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="assets/brillos-izq.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Michitaa&color=d6d6d6&style=flat-square&label=visitas+%E2%99%A1" />
+  <img src="assets/brillos-der.svg" />
+  <br>
   <sub>ฅ^•ﻌ•^ฅ</sub>
 </p>
